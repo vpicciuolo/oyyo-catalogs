@@ -1,11 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "2026.11.03.2",
-  "url": "https://raw.githubusercontent.com/vpicciuolo/oyyo-catalogs/main/content/library-2026.11.03.2.json",
-  "sha256": "80135556e68c89833544c84f8264b470764bdae00641450de0b25ea5bea389b8",
-  "sizeBytes": 1319056,
-  "addedTasks": 800,
-  "addedStyles": 192,
-  "totalTasks": 1025,
-  "totalStyles": 204
+  "version": "2026.11.03.3",
+  "url": "https://raw.githubusercontent.com/vpicciuolo/oyyo-catalogs/main/content/library-2026.11.03.3.json",
+  "sha256": "f73cb6cdf67afd91e119dfd9476dcbdd6794dc89d6e22c0d53cfb752c39f6bda",
+  "sizeBytes": 2169350,
+  "totalTasks": 1361,
+  "totalStyles": 204,
+  "totalAgents": 536,
+  "specializedTeamPresets": 50,
+  "builtInWorkflows": 7,
+  "minimumAppVersion": "0.1.16"
 }
